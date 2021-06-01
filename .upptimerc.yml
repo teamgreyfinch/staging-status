@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: teamgreyfinch # Your GitHub organization or username, where this repository lives
+repo: staging-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Greyfinch Application - https://app.staging.greyfinch.com/
+    url: https://app.staging.greyfinch.com/
+  - name: Patient Hub - https://hub.staging.greyfinch.com/
+    url: https://hub.staging.greyfinch.com/
+  - name: Patient Hub API
+    url: https://api.staging.greyfinch.com/healthz
+    icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
+  - name: Appointments Widget
+    url: https://appointments.staging.greyfinch.com/?division=981581
+    icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
+  - name: Appointments API 
+    url: https://app.staging.greyfinch.com/rest/v1/public/divisions/981581/locations
+    icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /staging-status
+  logoUrl: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
+  favicon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
+  robotsText: "User-agent: * \n Disallow: /"
+  name:  Greyfinch Staging
+  introTitle: "Greyfinch Uptime and Status Monitor"
+  introMessage: Realtime status monitoring of Greyfinch applications
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Production
+      href: /public-status/
+    - title: Staging
+      href: /staging-status/
+    - title: Demo
+      href: /demo-status/
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
