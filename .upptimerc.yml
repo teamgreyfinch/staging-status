@@ -30,11 +30,11 @@ status-website:
   introMessage: Realtime status monitoring of Greyfinch applications
   navbar:
     - title: Production
-      href: /public-status/
+      href: https://teamgreyfinch.github.io/public-status/
     - title: Staging
-      href: /staging-status/
+      href: https://teamgreyfinch.github.io/staging-status/
     - title: Demo
-      href: /demo-status/
+      href: https://teamgreyfinch.github.io/demo-status/
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
 
