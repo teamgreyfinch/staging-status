@@ -35,6 +35,9 @@ status-website:
       href: https://teamgreyfinch.github.io/staging-status/
     - title: Demo
       href: https://teamgreyfinch.github.io/demo-status/
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org) 
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
 
