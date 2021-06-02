@@ -1,0 +1,32 @@
+name: Daily Scheduled Maintenance
+on:
+  schedule:
+    - cron: 15 0 * * *
+
+jobs:
+  create_issue:
+    name: Create maintenance window issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=today::$(date +'%Y-%m-%d')"
+      - name: Create maintenance window issue
+        uses: imjohnbo/issue-bot@v3.0
+        with:
+          assignees: ""
+          labels: "maintenance"
+          title: "Staging maintenance"
+          body: |
+            <!---
+            start: {{ steps.date.outputs.today }}T07:55:00.00Z
+            end: {{ steps.date.outputs.today }}T09:45:00.00Z
+            expectedDown: patient-hub-api, patient-hub, greyfinch-application
+            --->
+            ### Daily Maintenance
+          pinned: false
+          close-previous: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
