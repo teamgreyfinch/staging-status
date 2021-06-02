@@ -4,17 +4,17 @@
     "url": "https://app.staging.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/app.staging.greyfinch.com",
     "slug": "greyfinch-application-https-app-staging-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 87,
+    "timeDay": 87,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://api.staging.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "patient-hub-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 68,
     "timeDay": 68,
     "timeWeek": 68,
     "timeMonth": 68,
     "timeYear": 68,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-02": 0
+    }
   },
   {
     "name": "Appointments Widget",
@@ -76,17 +78,19 @@
     "url": "https://app.staging.greyfinch.com/rest/v1/public/divisions/981581/locations",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "appointments-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3138,
-    "timeDay": 3138,
-    "timeWeek": 3138,
-    "timeMonth": 3138,
-    "timeYear": 3138,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2511,
+    "timeDay": 2511,
+    "timeWeek": 2511,
+    "timeMonth": 2511,
+    "timeYear": 2511,
+    "dailyMinutesDown": {
+      "2021-06-02": 0
+    }
   }
 ]
