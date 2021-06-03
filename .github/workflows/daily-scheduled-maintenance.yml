@@ -21,8 +21,8 @@ jobs:
           title: "Staging maintenance"
           body: |
             <!---
-            start: {{ steps.date.outputs.today }}T07:55:00.00Z
-            end: {{ steps.date.outputs.today }}T09:45:00.00Z
+            start: ${{ steps.date.outputs.today }}T07:55:00.00Z
+            end: ${{ steps.date.outputs.today }}T09:45:00.00Z
             expectedDown: patient-hub-api, patient-hub, greyfinch-application
             --->
             ### Daily Maintenance
