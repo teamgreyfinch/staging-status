@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 213,
     "timeDay": 238,
-    "timeWeek": 252,
+    "timeWeek": 258,
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {}
@@ -40,17 +40,17 @@
     "url": "https://api.staging.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "patient-hub-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
-    "time": 118,
-    "timeDay": 112,
-    "timeWeek": 129,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "time": 116,
+    "timeDay": 95,
+    "timeWeek": 127,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {
       "2021-06-02": 54
     }
@@ -86,7 +86,7 @@
     "uptimeYear": "99.76%",
     "time": 2803,
     "timeDay": 2249,
-    "timeWeek": 2806,
+    "timeWeek": 2918,
     "timeMonth": 2803,
     "timeYear": 2803,
     "dailyMinutesDown": {
