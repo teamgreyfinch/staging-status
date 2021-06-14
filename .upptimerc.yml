@@ -3,19 +3,22 @@ owner: teamgreyfinch # Your GitHub organization or username, where this reposito
 repo: staging-status # The name of this repository
 
 sites:
-  - name: Greyfinch Application - https://app.staging.greyfinch.com/
+  - name: PMS Application - https://app.staging.greyfinch.com/
     url: https://app.staging.greyfinch.com/
+  - name: Admin/Comms App - https://admin.staging.greyfinch.com/
+    url: https://admin.staging.greyfinch.com/
   - name: Patient Hub - https://hub.staging.greyfinch.com/
     url: https://hub.staging.greyfinch.com/
-  - name: Patient Hub API
-    url: https://api.staging.greyfinch.com/healthz
-    icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
   - name: Appointments Widget
     url: https://appointments.staging.greyfinch.com/?division=981581
     icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
   - name: Appointments API 
     url: https://app.staging.greyfinch.com/rest/v1/public/divisions/981581/locations
     icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
+  - name: API
+    url: https://api.staging.greyfinch.com/healthz
+    icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
+    __dangerous__body_down: WARN
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
