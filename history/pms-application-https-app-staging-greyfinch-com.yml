@@ -1,7 +1,7 @@
 url: https://app.staging.greyfinch.com/
-status: up
-code: 200
-responseTime: 231
-lastUpdated: 2021-09-13T09:28:24.704Z
+status: down
+code: 503
+responseTime: 223
+lastUpdated: 2021-09-13T21:38:21.259Z
 startTime: Mon Jun 14 2021 14:38:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
