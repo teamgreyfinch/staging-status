@@ -4,15 +4,15 @@
     "url": "https://app.staging.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/app.staging.greyfinch.com",
     "slug": "pms-application-https-app-staging-greyfinch-com",
-    "status": "up",
-    "uptime": "97.49%",
-    "uptimeDay": "96.82%",
+    "status": "down",
+    "uptime": "97.50%",
+    "uptimeDay": "96.81%",
     "uptimeWeek": "75.18%",
     "uptimeMonth": "90.88%",
-    "uptimeYear": "97.49%",
+    "uptimeYear": "97.50%",
     "time": 278,
-    "timeDay": 271,
-    "timeWeek": 264,
+    "timeDay": 287,
+    "timeWeek": 266,
     "timeMonth": 271,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -65,8 +65,7 @@
       "2021-09-10": 29,
       "2021-09-09": 28,
       "2021-09-08": 43,
-      "2021-09-07": 50,
-      "2021-09-06": 14
+      "2021-09-07": 50
     }
   },
   {
@@ -128,18 +127,19 @@
     "url": "https://app.staging.greyfinch.com/rest/v1/public/divisions/981581/locations",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "appointments-api",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "98.38%",
-    "uptimeYear": "99.11%",
-    "time": 5187,
-    "timeDay": 8626,
-    "timeWeek": 4786,
-    "timeMonth": 5729,
-    "timeYear": 5187,
+    "uptimeYear": "99.12%",
+    "time": 5180,
+    "timeDay": 6487,
+    "timeWeek": 4648,
+    "timeMonth": 5692,
+    "timeYear": 5180,
     "dailyMinutesDown": {
+      "2021-10-28": 0,
       "2021-10-26": 45,
       "2021-10-25": 10,
       "2021-10-22": 16,
@@ -191,7 +191,7 @@
       "2021-07-22": 10,
       "2021-07-21": 48,
       "2021-07-08": 7,
-      "2021-07-05": 265
+      "2021-07-05": 245
     }
   },
   {
