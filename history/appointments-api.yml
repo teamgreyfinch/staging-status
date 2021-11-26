@@ -1,7 +1,7 @@
 url: https://app.staging.greyfinch.com/rest/v1/public/divisions/981581/locations
-status: up
-code: 200
-responseTime: 2915
-lastUpdated: 2021-11-25T23:01:45.207Z
+status: down
+code: 503
+responseTime: 38
+lastUpdated: 2021-11-26T08:57:21.518Z
 startTime: Tue Jun 01 2021 21:29:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
