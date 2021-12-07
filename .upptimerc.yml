@@ -12,9 +12,6 @@ sites:
   - name: Appointments Widget
     url: https://appointments.staging.greyfinch.com/?division=981581
     icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
-  - name: Appointments API 
-    url: https://app.staging.greyfinch.com/rest/v1/public/divisions/981581/locations
-    icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
   - name: API
     url: https://api.staging.greyfinch.com/healthz
     icon: https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png
