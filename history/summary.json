@@ -4,15 +4,15 @@
     "url": "https://app.staging.greyfinch.com/",
     "icon": "https://favicons.githubusercontent.com/app.staging.greyfinch.com",
     "slug": "pms-application-https-app-staging-greyfinch-com",
-    "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "97.69%",
+    "status": "down",
+    "uptime": "96.94%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "97.75%",
     "uptimeMonth": "96.88%",
-    "uptimeYear": "96.93%",
+    "uptimeYear": "96.94%",
     "time": 295,
-    "timeDay": 854,
-    "timeWeek": 309,
+    "timeDay": 726,
+    "timeWeek": 300,
     "timeMonth": 286,
     "timeYear": 295,
     "dailyMinutesDown": {
@@ -100,8 +100,7 @@
       "2021-10-21": 75,
       "2021-10-20": 49,
       "2021-10-19": 27,
-      "2021-10-18": 31,
-      "2021-10-15": 29
+      "2021-10-18": 31
     }
   },
   {
@@ -166,12 +165,12 @@
     "status": "up",
     "uptime": "95.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.01%",
+    "uptimeWeek": "76.26%",
     "uptimeMonth": "94.02%",
     "uptimeYear": "95.68%",
     "time": 166,
-    "timeDay": 363,
-    "timeWeek": 187,
+    "timeDay": 474,
+    "timeWeek": 180,
     "timeMonth": 161,
     "timeYear": 166,
     "dailyMinutesDown": {
