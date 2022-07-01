@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
     "time": 272,
-    "timeDay": 390,
-    "timeWeek": 291,
-    "timeMonth": 224,
+    "timeDay": 129,
+    "timeWeek": 289,
+    "timeMonth": 228,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2022-05-17": 137,
@@ -120,9 +120,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 392,
-    "timeWeek": 351,
-    "timeMonth": 292,
+    "timeDay": 150,
+    "timeWeek": 299,
+    "timeMonth": 291,
     "timeYear": 290,
     "dailyMinutesDown": {}
   },
@@ -138,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 452,
-    "timeWeek": 322,
-    "timeMonth": 291,
-    "timeYear": 265,
+    "timeDay": 157,
+    "timeWeek": 313,
+    "timeMonth": 292,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -156,9 +156,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
-    "timeDay": 438,
-    "timeWeek": 388,
-    "timeMonth": 342,
+    "timeDay": 165,
+    "timeWeek": 386,
+    "timeMonth": 347,
     "timeYear": 281,
     "dailyMinutesDown": {}
   },
@@ -168,15 +168,15 @@
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "98.36%",
-    "time": 266,
-    "timeDay": 240,
-    "timeWeek": 267,
-    "timeMonth": 725,
+    "uptimeYear": "98.37%",
+    "time": 265,
+    "timeDay": 63,
+    "timeWeek": 272,
+    "timeMonth": 752,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2022-06-08": 20,
@@ -237,8 +237,7 @@
       "2021-07-21": 14,
       "2021-07-08": 7,
       "2021-07-05": 265,
-      "2021-07-02": 89,
-      "2021-07-01": 68
+      "2021-07-02": 89
     }
   }
 ]
