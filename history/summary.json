@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.greyfinch.com.ico",
     "slug": "pms-application-https-app-staging-greyfinch-com",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
     "time": 268,
-    "timeDay": 425,
-    "timeWeek": 271,
-    "timeMonth": 259,
-    "timeYear": 271,
+    "timeDay": 279,
+    "timeWeek": 276,
+    "timeMonth": 258,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2022-05-17": 137,
       "2022-04-06": 441,
@@ -120,8 +120,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 407,
-    "timeWeek": 274,
+    "timeDay": 251,
+    "timeWeek": 278,
     "timeMonth": 268,
     "timeYear": 272,
     "dailyMinutesDown": {}
@@ -138,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 373,
+    "timeDay": 221,
     "timeWeek": 263,
-    "timeMonth": 262,
+    "timeMonth": 261,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -155,10 +155,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
-    "timeDay": 357,
-    "timeWeek": 264,
-    "timeMonth": 252,
+    "time": 281,
+    "timeDay": 247,
+    "timeWeek": 273,
+    "timeMonth": 251,
     "timeYear": 272,
     "dailyMinutesDown": {}
   },
@@ -174,9 +174,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
     "time": 398,
-    "timeDay": 218,
-    "timeWeek": 457,
-    "timeMonth": 409,
+    "timeDay": 185,
+    "timeWeek": 464,
+    "timeMonth": 410,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2022-08-31": 559,
@@ -209,8 +209,7 @@
       "2021-10-22": 7,
       "2021-10-21": 30,
       "2021-10-20": 7,
-      "2021-10-18": 22,
-      "2021-10-10": 12
+      "2021-10-18": 22
     }
   }
 ]
