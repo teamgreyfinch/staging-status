@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.09%",
-    "time": 278,
-    "timeDay": 309,
-    "timeWeek": 1357,
-    "timeMonth": 558,
-    "timeYear": 285,
+    "uptimeYear": "99.18%",
+    "time": 280,
+    "timeDay": 104,
+    "timeWeek": 1341,
+    "timeMonth": 559,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2022-12-05": 15,
       "2022-05-17": 137,
@@ -103,8 +103,7 @@
       "2021-12-12": 37,
       "2021-12-11": 29,
       "2021-12-10": 29,
-      "2021-12-09": 30,
-      "2021-12-08": 160
+      "2021-12-09": 30
     }
   },
   {
@@ -119,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 289,
-    "timeWeek": 239,
-    "timeMonth": 240,
-    "timeYear": 263,
+    "timeDay": 86,
+    "timeWeek": 224,
+    "timeMonth": 238,
+    "timeYear": 262,
     "dailyMinutesDown": {}
   },
   {
@@ -137,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 263,
-    "timeWeek": 213,
-    "timeMonth": 233,
+    "timeDay": 132,
+    "timeWeek": 204,
+    "timeMonth": 234,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -155,9 +154,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 248,
-    "timeWeek": 231,
-    "timeMonth": 235,
+    "timeDay": 182,
+    "timeWeek": 222,
+    "timeMonth": 237,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -170,13 +169,13 @@
     "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "98.71%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "98.78%",
     "time": 444,
-    "timeDay": 220,
-    "timeWeek": 794,
-    "timeMonth": 665,
-    "timeYear": 492,
+    "timeDay": 153,
+    "timeWeek": 827,
+    "timeMonth": 678,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2022-11-16": 96,
       "2022-11-12": 24,
@@ -201,8 +200,7 @@
       "2022-01-07": 564,
       "2022-01-06": 723,
       "2022-01-05": 562,
-      "2022-01-04": 772,
-      "2021-12-08": 83
+      "2022-01-04": 772
     }
   }
 ]
