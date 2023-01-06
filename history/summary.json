@@ -8,12 +8,12 @@
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 279,
-    "timeDay": 221,
-    "timeWeek": 332,
-    "timeMonth": 570,
+    "timeDay": 236,
+    "timeWeek": 303,
+    "timeMonth": 265,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2022-12-05": 15,
@@ -74,8 +74,7 @@
       "2022-01-10": 25,
       "2022-01-09": 29,
       "2022-01-08": 37,
-      "2022-01-07": 29,
-      "2022-01-06": 29
+      "2022-01-07": 29
     }
   },
   {
@@ -90,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 187,
-    "timeWeek": 309,
-    "timeMonth": 274,
-    "timeYear": 263,
+    "timeDay": 201,
+    "timeWeek": 278,
+    "timeMonth": 272,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -108,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 361,
-    "timeWeek": 346,
-    "timeMonth": 260,
+    "timeDay": 212,
+    "timeWeek": 315,
+    "timeMonth": 259,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -125,10 +124,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 366,
-    "timeWeek": 330,
-    "timeMonth": 253,
+    "time": 276,
+    "timeDay": 184,
+    "timeWeek": 297,
+    "timeMonth": 252,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -138,14 +137,14 @@
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "98.96%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "98.86%",
     "time": 493,
-    "timeDay": 3175,
-    "timeWeek": 896,
+    "timeDay": 3155,
+    "timeWeek": 891,
     "timeMonth": 772,
     "timeYear": 536,
     "dailyMinutesDown": {
@@ -172,8 +171,7 @@
       "2022-02-15": 77,
       "2022-02-02": 150,
       "2022-01-12": 38,
-      "2022-01-07": 564,
-      "2022-01-06": 723
+      "2022-01-07": 564
     }
   }
 ]
