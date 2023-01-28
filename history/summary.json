@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 254,
     "timeDay": 113,
     "timeWeek": 291,
@@ -78,10 +78,10 @@
     "url": "https://hub.staging.greyfinch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hub.staging.greyfinch.com.ico",
     "slug": "patient-hub-https-hub-staging-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
@@ -89,25 +89,29 @@
     "timeWeek": 293,
     "timeMonth": 295,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-28": 1
+    }
   },
   {
     "name": "Appointments Widget",
     "url": "https://appointments.staging.greyfinch.com/?division=981581",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "appointments-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
+    "time": 277,
     "timeDay": 99,
     "timeWeek": 298,
     "timeMonth": 306,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-28": 0
+    }
   },
   {
     "name": "API",
@@ -121,10 +125,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.10%",
     "time": 514,
-    "timeDay": 121,
-    "timeWeek": 757,
-    "timeMonth": 670,
-    "timeYear": 574,
+    "timeDay": 136,
+    "timeWeek": 786,
+    "timeMonth": 674,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2023-01-13": 55,
       "2023-01-05": 15,
