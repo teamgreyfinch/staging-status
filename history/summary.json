@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 254,
-    "timeDay": 113,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 254,
+    "timeDay": 385,
+    "timeWeek": 309,
+    "timeMonth": 301,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2022-12-05": 15,
       "2022-05-17": 137,
@@ -51,8 +51,7 @@
       "2022-02-02": 29,
       "2022-02-01": 37,
       "2022-01-31": 28,
-      "2022-01-30": 28,
-      "2022-01-29": 37
+      "2022-01-30": 28
     }
   },
   {
@@ -66,11 +65,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 173,
-    "timeWeek": 329,
-    "timeMonth": 293,
-    "timeYear": 262,
+    "time": 280,
+    "timeDay": 465,
+    "timeWeek": 367,
+    "timeMonth": 303,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   },
   {
@@ -80,18 +79,16 @@
     "slug": "patient-hub-https-hub-staging-greyfinch-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 172,
-    "timeWeek": 282,
-    "timeMonth": 292,
-    "timeYear": 253,
-    "dailyMinutesDown": {
-      "2023-01-28": 6
-    }
+    "time": 260,
+    "timeDay": 320,
+    "timeWeek": 306,
+    "timeMonth": 300,
+    "timeYear": 254,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Appointments Widget",
@@ -100,18 +97,16 @@
     "slug": "appointments-widget",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 147,
-    "timeWeek": 285,
-    "timeMonth": 302,
+    "timeDay": 315,
+    "timeWeek": 312,
+    "timeMonth": 312,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2023-01-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -125,9 +120,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.10%",
     "time": 514,
-    "timeDay": 136,
-    "timeWeek": 786,
-    "timeMonth": 674,
+    "timeDay": 192,
+    "timeWeek": 788,
+    "timeMonth": 676,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2023-01-13": 55,
