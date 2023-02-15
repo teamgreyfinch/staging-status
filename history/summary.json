@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 254,
-    "timeDay": 262,
-    "timeWeek": 264,
-    "timeMonth": 260,
-    "timeYear": 252,
+    "timeDay": 273,
+    "timeWeek": 289,
+    "timeMonth": 261,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2022-12-05": 15,
       "2022-05-17": 137,
@@ -34,8 +34,7 @@
       "2022-02-19": 20,
       "2022-02-18": 27,
       "2022-02-17": 36,
-      "2022-02-16": 28,
-      "2022-02-15": 149
+      "2022-02-16": 28
     }
   },
   {
@@ -49,9 +48,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 473,
-    "timeWeek": 282,
+    "time": 273,
+    "timeDay": 175,
+    "timeWeek": 294,
     "timeMonth": 273,
     "timeYear": 261,
     "dailyMinutesDown": {}
@@ -67,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 174,
-    "timeWeek": 236,
-    "timeMonth": 261,
+    "time": 252,
+    "timeDay": 210,
+    "timeWeek": 252,
+    "timeMonth": 260,
     "timeYear": 253,
     "dailyMinutesDown": {}
   },
@@ -86,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 221,
-    "timeWeek": 246,
-    "timeMonth": 264,
+    "timeDay": 203,
+    "timeWeek": 256,
+    "timeMonth": 263,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -103,11 +102,11 @@
     "uptimeWeek": "72.32%",
     "uptimeMonth": "93.63%",
     "uptimeYear": "98.60%",
-    "time": 542,
-    "timeDay": 211,
-    "timeWeek": 1229,
+    "time": 543,
+    "timeDay": 159,
+    "timeWeek": 1259,
     "timeMonth": 831,
-    "timeYear": 599,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2023-02-11": 830,
       "2023-02-10": 1295,
@@ -132,8 +131,7 @@
       "2022-06-08": 20,
       "2022-06-07": 37,
       "2022-05-17": 56,
-      "2022-05-13": 42,
-      "2022-02-15": 77
+      "2022-05-13": 42
     }
   }
 ]
