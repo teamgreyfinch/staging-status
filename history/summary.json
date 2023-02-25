@@ -86,7 +86,7 @@
     "url": "https://api.staging.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -96,7 +96,7 @@
     "timeDay": 190,
     "timeWeek": 229,
     "timeMonth": 630,
-    "timeYear": 605,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2023-02-16": 78,
       "2023-02-15": 17,
