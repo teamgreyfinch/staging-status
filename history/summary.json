@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.greyfinch.com.ico",
     "slug": "pms-application-https-app-staging-greyfinch-com",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -24,18 +24,20 @@
     "url": "https://admin.staging.greyfinch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.staging.greyfinch.com.ico",
     "slug": "admin-comms-app-https-admin-staging-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
+    "time": 261,
     "timeDay": 104,
     "timeWeek": 213,
     "timeMonth": 230,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   },
   {
     "name": "Patient Hub - https://hub.staging.greyfinch.com/",
@@ -88,7 +90,7 @@
     "timeDay": 33,
     "timeWeek": 198,
     "timeMonth": 652,
-    "timeYear": 610,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2023-05-31": 37,
       "2023-05-24": 35,
