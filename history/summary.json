@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 85,
-    "timeWeek": 246,
-    "timeMonth": 241,
-    "timeYear": 280,
+    "time": 253,
+    "timeDay": 455,
+    "timeWeek": 273,
+    "timeMonth": 243,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2022-12-05": 15
     }
@@ -26,18 +26,16 @@
     "slug": "admin-comms-app-https-admin-staging-greyfinch-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 233,
-    "timeWeek": 232,
-    "timeMonth": 234,
-    "timeYear": 266,
-    "dailyMinutesDown": {
-      "2023-06-02": 8
-    }
+    "timeDay": 428,
+    "timeWeek": 265,
+    "timeMonth": 238,
+    "timeYear": 267,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Patient Hub - https://hub.staging.greyfinch.com/",
@@ -51,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 170,
-    "timeWeek": 232,
+    "timeDay": 414,
+    "timeWeek": 257,
     "timeMonth": 238,
     "timeYear": 260,
     "dailyMinutesDown": {}
@@ -68,9 +66,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 172,
-    "timeWeek": 238,
+    "time": 255,
+    "timeDay": 387,
+    "timeWeek": 260,
     "timeMonth": 231,
     "timeYear": 262,
     "dailyMinutesDown": {}
@@ -87,8 +85,8 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.26%",
     "time": 602,
-    "timeDay": 33,
-    "timeWeek": 198,
+    "timeDay": 311,
+    "timeWeek": 213,
     "timeMonth": 652,
     "timeYear": 611,
     "dailyMinutesDown": {
