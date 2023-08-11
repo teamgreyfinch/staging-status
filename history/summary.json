@@ -4,18 +4,19 @@
     "url": "https://app.staging.greyfinch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.greyfinch.com.ico",
     "slug": "pms-application-https-app-staging-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 435,
-    "timeWeek": 242,
-    "timeMonth": 243,
+    "timeDay": 369,
+    "timeWeek": 250,
+    "timeMonth": 245,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2023-08-11": 0,
       "2022-12-05": 15
     }
   },
@@ -88,7 +89,7 @@
     "timeDay": 362,
     "timeWeek": 278,
     "timeMonth": 220,
-    "timeYear": 573,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2023-07-17": 36,
       "2023-06-28": 30,
