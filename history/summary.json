@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 737,
-    "timeWeek": 489,
+    "timeDay": 183,
+    "timeWeek": 476,
     "timeMonth": 354,
-    "timeYear": 292,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2022-12-05": 15
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 295,
-    "timeWeek": 110,
+    "timeDay": 3,
+    "timeWeek": 105,
     "timeMonth": 49,
     "timeYear": 214,
     "dailyMinutesDown": {}
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 352,
-    "timeWeek": 253,
+    "timeDay": 123,
+    "timeWeek": 256,
     "timeMonth": 194,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 340,
-    "timeWeek": 265,
-    "timeMonth": 200,
+    "timeDay": 92,
+    "timeWeek": 263,
+    "timeMonth": 199,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -79,18 +79,19 @@
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
     "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "91.86%",
-    "uptimeYear": "98.16%",
+    "uptime": "98.39%",
+    "uptimeDay": "77.87%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "91.21%",
+    "uptimeYear": "98.11%",
     "time": 497,
-    "timeDay": 151,
-    "timeWeek": 195,
+    "timeDay": 89,
+    "timeWeek": 194,
     "timeMonth": 164,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2023-10-19": 33,
+      "2023-10-20": 21,
+      "2023-10-19": 298,
       "2023-10-13": 51,
       "2023-09-27": 1364,
       "2023-09-26": 1440,
@@ -123,8 +124,7 @@
       "2022-11-16": 96,
       "2022-11-12": 24,
       "2022-11-07": 55,
-      "2022-10-24": 37,
-      "2022-10-20": 37
+      "2022-10-24": 37
     }
   }
 ]
