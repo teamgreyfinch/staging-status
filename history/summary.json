@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 230,
-    "timeWeek": 313,
-    "timeMonth": 389,
-    "timeYear": 317,
-    "dailyMinutesDown": {
-      "2022-12-05": 15
-    }
+    "timeDay": 652,
+    "timeWeek": 376,
+    "timeMonth": 402,
+    "timeYear": 318,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin/Comms App - https://admin.staging.greyfinch.com/",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 40,
-    "timeWeek": 17,
-    "timeMonth": 29,
-    "timeYear": 193,
+    "time": 212,
+    "timeDay": 21,
+    "timeWeek": 15,
+    "timeMonth": 27,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 176,
-    "timeWeek": 214,
-    "timeMonth": 222,
-    "timeYear": 237,
+    "timeDay": 404,
+    "timeWeek": 250,
+    "timeMonth": 229,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -67,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 98,
-    "timeWeek": 176,
-    "timeMonth": 217,
-    "timeYear": 232,
+    "timeDay": 366,
+    "timeWeek": 211,
+    "timeMonth": 223,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -79,16 +77,16 @@
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "97.15%",
     "time": 466,
-    "timeDay": 64,
-    "timeWeek": 118,
-    "timeMonth": 175,
-    "timeYear": 462,
+    "timeDay": 230,
+    "timeWeek": 139,
+    "timeMonth": 179,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2023-12-01": 55,
       "2023-11-13": 69,
