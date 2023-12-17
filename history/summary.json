@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.greyfinch.com.ico",
     "slug": "pms-application-https-app-staging-greyfinch-com",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 230,
-    "timeWeek": 448,
-    "timeMonth": 422,
-    "timeYear": 297,
+    "timeDay": 180,
+    "timeWeek": 438,
+    "timeMonth": 403,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 90,
-    "timeWeek": 48,
-    "timeMonth": 34,
-    "timeYear": 187,
+    "timeDay": 41,
+    "timeWeek": 45,
+    "timeMonth": 35,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 120,
-    "timeWeek": 251,
-    "timeMonth": 240,
+    "timeDay": 187,
+    "timeWeek": 258,
+    "timeMonth": 234,
     "timeYear": 238,
     "dailyMinutesDown": {}
   },
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 82,
-    "timeWeek": 224,
-    "timeMonth": 226,
-    "timeYear": 233,
+    "time": 239,
+    "timeDay": 190,
+    "timeWeek": 230,
+    "timeMonth": 218,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -81,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "97.15%",
-    "time": 459,
-    "timeDay": 35,
-    "timeWeek": 184,
-    "timeMonth": 165,
-    "timeYear": 430,
+    "uptimeYear": "97.24%",
+    "time": 458,
+    "timeDay": 52,
+    "timeWeek": 175,
+    "timeMonth": 157,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2023-12-01": 55,
       "2023-11-13": 69,
@@ -121,8 +121,7 @@
       "2023-02-10": 1295,
       "2023-02-09": 665,
       "2023-01-13": 55,
-      "2023-01-05": 15,
-      "2022-12-17": 560
+      "2023-01-05": 15
     }
   }
 ]
