@@ -4,18 +4,20 @@
     "url": "https://app.staging.greyfinch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.greyfinch.com.ico",
     "slug": "pms-application-https-app-staging-greyfinch-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
+    "time": 304,
     "timeDay": 226,
     "timeWeek": 292,
     "timeMonth": 382,
     "timeYear": 297,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-23": 0
+    }
   },
   {
     "name": "Admin/Comms App - https://admin.staging.greyfinch.com/",
@@ -86,7 +88,7 @@
     "timeDay": 73,
     "timeWeek": 114,
     "timeMonth": 153,
-    "timeYear": 427,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2023-12-20": 37,
       "2023-12-01": 55,
