@@ -1,7 +1,7 @@
 url: https://appointments.staging.greyfinch.com/?division=981581
-status: down
-code: 404
-responseTime: 587
-lastUpdated: 2024-01-03T23:02:06.399Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2024-01-04T13:00:16.944Z
 startTime: 2021-06-01T21:29:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
