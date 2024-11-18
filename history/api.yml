@@ -1,7 +1,7 @@
 url: https://api.staging.greyfinch.com/healthz
 status: up
 code: 200
-responseTime: 188
-lastUpdated: 2024-11-18T18:57:26.539Z
+responseTime: 165
+lastUpdated: 2024-11-18T23:02:05.343Z
 startTime: 2021-06-14T14:38:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
