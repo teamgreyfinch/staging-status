@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
-    "time": 421,
-    "timeDay": 155,
-    "timeWeek": 409,
-    "timeMonth": 444,
+    "uptimeYear": "99.59%",
+    "time": 422,
+    "timeDay": 591,
+    "timeWeek": 399,
+    "timeMonth": 438,
     "timeYear": 435,
-    "dailyMinutesDown": {
-      "2024-01-04": 761
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin/Comms App - https://admin.staging.greyfinch.com/",
@@ -29,15 +27,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.59%",
     "time": 50,
-    "timeDay": 34,
-    "timeWeek": 58,
-    "timeMonth": 40,
+    "timeDay": 2,
+    "timeWeek": 47,
+    "timeMonth": 39,
     "timeYear": 49,
-    "dailyMinutesDown": {
-      "2024-01-04": 762
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Patient Hub - https://hub.staging.greyfinch.com/",
@@ -49,15 +45,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.58%",
     "time": 226,
-    "timeDay": 161,
-    "timeWeek": 198,
-    "timeMonth": 231,
+    "timeDay": 321,
+    "timeWeek": 201,
+    "timeMonth": 229,
     "timeYear": 231,
-    "dailyMinutesDown": {
-      "2024-01-04": 780
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Appointments Widget",
@@ -69,15 +63,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
-    "time": 238,
-    "timeDay": 156,
-    "timeWeek": 213,
-    "timeMonth": 242,
+    "uptimeYear": "99.58%",
+    "time": 239,
+    "timeDay": 441,
+    "timeWeek": 229,
+    "timeMonth": 245,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2024-01-04": 780
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -85,15 +77,15 @@
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.19%",
-    "time": 232,
-    "timeDay": 81,
-    "timeWeek": 194,
-    "timeMonth": 202,
+    "uptimeYear": "98.47%",
+    "time": 231,
+    "timeDay": 319,
+    "timeWeek": 191,
+    "timeMonth": 201,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2024-11-18": 88,
