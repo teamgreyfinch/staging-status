@@ -4,18 +4,20 @@
     "url": "https://app.staging.greyfinch.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.greyfinch.com.ico",
     "slug": "pms-application-https-app-staging-greyfinch-com",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
+    "time": 439,
     "timeDay": 305,
     "timeWeek": 408,
     "timeMonth": 506,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 1
+    }
   },
   {
     "name": "Admin/Comms App - https://admin.staging.greyfinch.com/",
@@ -76,9 +78,9 @@
     "url": "https://api.staging.greyfinch.com/healthz",
     "icon": "https://raw.githubusercontent.com/teamgreyfinch/public-status/master/assets/cropped-favgreen-01-1-192x192.png",
     "slug": "api",
-    "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.39%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.17%",
@@ -88,6 +90,7 @@
     "timeMonth": 214,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-06-12": 492,
       "2025-06-11": 543,
       "2025-05-27": 18,
